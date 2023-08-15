@@ -6,6 +6,11 @@ import com.rebeca.agendacmd.domain.Contato;
 import com.rebeca.agendacmd.home.ContatoHome;
 import com.rebeca.agendacmd.ui.Menu;
 
+/**
+ * Classe principal
+ * @author Rebeca
+ *
+ */
 public class AgendaCmd {
 
 	public static void main(String[] args) {
